@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qwerty/static/css/main.ad6606e1.css",
+    "main.js": "/qwerty/static/js/main.c138bc6b.js",
+    "index.html": "/qwerty/index.html",
+    "main.ad6606e1.css.map": "/qwerty/static/css/main.ad6606e1.css.map",
+    "main.c138bc6b.js.map": "/qwerty/static/js/main.c138bc6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad6606e1.css",
+    "static/js/main.c138bc6b.js"
+  ]
+}
